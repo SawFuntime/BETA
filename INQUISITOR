@@ -1,6 +1,6 @@
     game.StarterGui:SetCore("SendNotification",{
         Title = 'Error!';
         Text = 'Script under maintenance, sorry :(';
-        Icon = "rbxassetid://10458679593";
+        Icon = "rbxassetid://10659651611";
         Duration = 5;
     })
